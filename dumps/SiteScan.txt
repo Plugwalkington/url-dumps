@@ -1,3 +1,5 @@
+// urls from https://raw.githubusercontent.com/nickoppen/pihole-blocklists/master/blocklist-roblox.txt
+// these shouldnt have been ratelimited, but some MIGHT work (NUL category)
 🟩 200 : https://blog.roblox.com
 🟩 200 : https://status.roblox.com
 🟩 200 : https://create.roblox.com
