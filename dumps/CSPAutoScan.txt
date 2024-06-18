@@ -1,3 +1,4 @@
+// scraped from content security policy
 🟩 200 : https://sierra.chat
 🟩 200 : https://sierra.chat
 🟩 200 : https://radar.cedexis.com
